@@ -6,6 +6,12 @@ This project demonstrates an end-to-end business intelligence and data analytics
 
 The project combines relational database design, SQL data validation, business analysis, and interactive data visualization to transform operational supply chain data into actionable business insights.
 
+## Power BI Dashboard
+
+![Sales & Inventory Analytics Dashboard](Sales_Inventory_Dashboard.png)
+
+*Interactive Power BI dashboard analyzing revenue, profitability, order activity, geographic performance, and inventory replenishment requirements.*
+
 ## Business Objectives
 
 The analysis was designed to answer several important business questions:
